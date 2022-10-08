@@ -1,0 +1,44 @@
+
+ 
+Html link - <a href=" ">			
+Html image - <img src=" " alt=" " width=" " height=" ">
+Break - <br>	
+Html horizontal - <hr>	
+Bold text - <b>
+Important text - <strong>
+Italic text - <i>
+Emphasized text - <em>
+Marked text - <mark>
+Smaller text - <small>
+Deleted text - <del>
+Inserted text - <ins>
+Subscript text - <sub>
+Superscript text - <sub>
+short qoutation - <q> </q>
+html work title (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.) - <cite>
+                <p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+abbreviations - <abbr title="World Health Organization">WHO</abbr>....
+Html preformatted text (spaces & line breaks) - <pre> </pre>		 
+Style color - <p style="color:red;">This is a red paragraph.</p>
+Style font size - <h1 style="font-size:60px;">Heading 1</h1>
+Style font theme - <h1 style="font-family:verdana;">This is a heading</h1>
+ 		          <p style="font-family:courier;">This is a paragraph.</p> 
+Style text alignment - <h1 style="text-align:center;">Centered Heading</h1>
+ 		               <p style="text-align:center;">Centered paragraph.</p> 
+Style background color - <body style="background-color:powderblue;">
+                         <h1 style="background-color:powderblue;">This is a heading</h1>
+                         <p style="background-color:tomato;">This is a paragraph.</p>
+    *color = hex color (code)
+html blockqoute - <blockquote cite="http://www.worldwildlife.org/who/index.html">......</blockquote>
+html address - <address>
+                <address>
+                Written by John Doe.<br> 
+                Visit us at:<br>
+                Example.com<br>
+                Box 564, Disneyland<br>
+                USA
+                </address>
+html Bi-Directional override - <bdo> </bdo>    rtl=right to left   ltr=left to right
+                            <bdo dir="rtl">This line will be written from right to left</bdo>
+
+
