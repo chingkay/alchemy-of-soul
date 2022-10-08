@@ -28,6 +28,7 @@ Style text alignment - <h1 style="text-align:center;">Centered Heading</h1>
 Style background color - <body style="background-color:powderblue;">
                          <h1 style="background-color:powderblue;">This is a heading</h1>
                          <p style="background-color:tomato;">This is a paragraph.</p>
+style border color - <h1 style="border: 2px solid Tomato;">Hello World</h1>
     *color = hex color (code)
 html blockqoute - <blockquote cite="http://www.worldwildlife.org/who/index.html">......</blockquote>
 html address - <address>
@@ -40,5 +41,9 @@ html address - <address>
                 </address>
 html Bi-Directional override - <bdo> </bdo>    rtl=right to left   ltr=left to right
                             <bdo dir="rtl">This line will be written from right to left</bdo>
+hide content - <!-- <p>This is another paragraph </p> -->
+hide incline content - <!-- great text -->
+                    <p>This <!-- great text --> is a paragraph.</p>
+
 
 
